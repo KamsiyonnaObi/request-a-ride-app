@@ -1,6 +1,9 @@
 # rar_app
 
-A new Flutter project.
+Request a ride app - A Flutter project.
+
+Description.
+No more hassle to find a ride to church. Sign up and request a ride!
 
 ## Getting Started
 
